@@ -25,7 +25,6 @@ function Herosec() {
     <div className="mt-4 text-amber-50 ">
       <Link 
         href="/courses" 
-        
       >
         <Button
         borderRadius="1.75rem"
